@@ -181,9 +181,9 @@ The portfolio website was deployed using **GitHub Pages**. The live website can 
 * [x] Mobile layout completed
 * [x] GitHub repository updated
 * [x] GitHub Pages deployment completed
-* [ ] Desktop screenshot added
-* [ ] Tablet screenshot added
-* [ ] Mobile screenshot added
+* [x] Desktop screenshot added
+* [x] Tablet screenshot added
+* [x] Mobile screenshot added
 
 ## Short Learning Reflection
 
